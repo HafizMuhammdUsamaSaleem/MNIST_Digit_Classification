@@ -1,5 +1,4 @@
-# MNIST_Digit_Classification
- ## MNIST Digit Classification using Deep Learning
+# MNIST Digit Classification Using Deep Learning
 This repository contains code for a machine learning project to classify handwritten digits using deep learning techniques. The project is based on the MNIST dataset, a popular benchmark dataset for image classification.
 
 ### Features
